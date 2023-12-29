@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with optimizing database queries for better performance.
 - 💬 Ask me about frontend technologies.
 - 📫 How to reach me: vaishnavi7219@gmail.com
+- 🔗LinkedIn : 
 
 
 
