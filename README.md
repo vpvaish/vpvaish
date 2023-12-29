@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there+%2CI'm+Vaishnavi+Patil;I+learn+FrontEnd+stuffs.;You+can+c%C3%B8ntact+me+in+discord.;Hi+there%2C+You+can+call+me+Vaishnavi.;Hi+there%2C+I'm+Graduated+CSE+student;Hi+there%2C+I+play+music+stuffs.)](https://github.com/vpvaish)
 
 
-<h1>### Hi there 👋</h1>
+<h1>Hi there 👋</h1>
 
  
 - 🌱 I’m currently learning <b>ReactJs</b>.
