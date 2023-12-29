@@ -17,28 +17,13 @@
 <table><tr>
 
 
-<td><a href="https://linkedin.com/in/RajkumarSony/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/RajkumarSony/" height="30" width="40" /></a></td>
+<td><a href="https://www.linkedin.com/in/vaishnavi-p-85497321a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/RajkumarSony/" height="50" width="50" /></a></td>
 
-<td><a href="https://instagram.com/rajkumarsony_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rajkumar Sony" height="30" width="40" /></a></td>
+<td><a href="https://www.instagram.com/vpvaish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rajkumar Sony" height="50" width="50" /></a></td>
 
-<td><a href="https://www.hackerrank.com/RajkumarSony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="RajkumarSony" height="30" width="40" /></a></td>
+<td><a href="https://www.hackerrank.com/profile/vaishnavi7219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="RajkumarSony" height="50" width="50" /></a></td>
 
-<td><a href="https://www.github.com/RajkumarSony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rajkumar Sony" height="30" width="40" /></a></td>
+<td><a href="https://github.com/vpvaish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rajkumar Sony" height="50" width="50" /></a></td>
 
 </tr></table></p>
 
-
-<!--
-**vpvaish/vpvaish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Java and web development for my journey as a software developer.
-- 👯 I’m looking to collaborate on on open-source projects related to web development.
-- 🤔 I’m looking for help with optimizing database queries for better performance.
-- 💬 Ask me about frontend technologies.
-- 📫 How to reach me: vaishnavi7219@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
