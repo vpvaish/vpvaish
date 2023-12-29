@@ -5,9 +5,8 @@
 
 
 ### Hi there 👋
-
-🔭 I’m currently working on 
-- 🌱 I’m currently learning Java and web development for my journey as a software developer.
+ 
+- 🌱 I’m currently learning <b>ReactJs</b>.
 - 👯 I’m looking to collaborate on on open-source projects related to web development.
 - 🤔 I’m looking for help with optimizing database queries for better performance.
 - 💬 Ask me about frontend technologies.
