@@ -10,11 +10,30 @@
 - 💬 Ask me about frontend technologies.
 - 📫 How to reach me: vaishnavi7219@gmail.com
 
-### ABOUT ME 👋
-
 
 <h1 align="center">Connect With Me</h1>
 
+<p align="left">
+<table><tr>
+<td><a href="https://twitter.com/rajkumarsony_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rajkumar Sony" height="30" width="40" /></a></td>
+
+<td><a href="https://linkedin.com/in/RajkumarSony/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/RajkumarSony/" height="30" width="40" /></a></td>
+
+<td><a href="https://instagram.com/rajkumarsony_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rajkumar Sony" height="30" width="40" /></a></td>
+
+<td><a href="https://www.facebook.com/me.rajkumarsony/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rajkumar Sony" height="30" width="40" /></a></td>
+
+<td><a href="https://www.hackerrank.com/RajkumarSony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="RajkumarSony" height="30" width="40" /></a></td>
+
+<td><a href="https://www.leetcode.com/RajkumarSony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Rajkumar Sony" height="30" width="40" /></a></td>
+
+<td><a href="https://discord.gg/MhPR4JfY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rajkumar Sony" height="30" width="40" /></a></td>
+
+<td><a href="https://www.github.com/RajkumarSony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rajkumar Sony" height="30" width="40" /></a></td>
+
+<td><a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Rajkumar Sony" height="30" width="40" /></a></td>
+
+</tr></table></p>
 
 
 <!--
