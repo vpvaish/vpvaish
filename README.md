@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning <b>ReactJs, Automation Testing</b>.
 - 👯 I’m looking to collaborate on on open-source projects related to web development.
 - 🤔 I’m looking for help with optimizing database queries for better performance.
+- 🚀 I got 3 star in SQL from HackerRank
 - 💬 Ask me about frontend technologies.
 - 📫 How to reach me: vaishnavi7219@gmail.com
 
