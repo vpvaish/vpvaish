@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Patil</h1>
 
-- 🌱 I’m currently learning <b>ReactJs, Automation Testing</b>.
+- 🌱 I’m currently learning <b>ReactJs, Manual Testing and Automation Testing</b>.
 - 👯 I’m looking to collaborate on on open-source projects related to web development.
 - 🤔 I’m looking for help with optimizing database queries for better performance.
 - 🚀 I got 3 star in SQL from HackerRank
